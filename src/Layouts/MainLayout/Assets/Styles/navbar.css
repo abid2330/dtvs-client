@@ -1,0 +1,37 @@
+/*--------------------------------------------------------------
+# Navbar
+--------------------------------------------------------------*/
+.navbar a {
+  font-size: 1rem;
+  text-transform: capitalize;
+  padding: 10px;
+  font-weight: bold;
+}
+.navbar a:hover {
+  color: black !important;
+  font-weight: bold;
+}
+.navbar i:hover {
+  color: black !important;
+  font-weight: bold;
+}
+.menu-active {
+  font-weight: bold;
+  border-bottom: 1px solid #0c56d0;
+  border-top: 1px solid #0c56d0;
+  border-left: 1px solid #0c56d0;
+  border-right: 1px solid #0c56d0;
+  border-radius: 10px;
+  background-color: #0c56d0;
+}
+
+@media (width: 1024px) {
+  .navbar a {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 1199px) {
+  .navbar a {
+    font-size: 0.8rem;
+  }
+}

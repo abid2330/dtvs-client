@@ -1,0 +1,18 @@
+/*--------------------------------------------------------------
+# Login
+--------------------------------------------------------------*/
+.bg-login {
+  background: url('../Images/Data_security_01.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.bg-password {
+  background: url('../Images/forgetpw.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.bg-change-password {
+  background: url('../Images/changepass.jpg');
+  background-position: center;
+  background-size: cover;
+}

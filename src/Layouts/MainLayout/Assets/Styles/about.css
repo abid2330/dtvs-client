@@ -1,0 +1,9 @@
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.bg {
+  background-color: rgb(223, 219, 219);
+  background-repeat: no-repeat;
+  background-position: contain;
+  background-attachment: fixed;
+}
