@@ -4,7 +4,7 @@ import store from '../Redux/store';
 ;
 
 
-const baseURL = 'http://localhost:4000';
+const baseURL = 'https://dtvs-api.onrender.com';
 
 const axiosInstance = axios.create({
   baseURL,
